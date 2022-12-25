@@ -5,11 +5,11 @@
 
 ## Descripción 📑
 
-Teclado musical utilizando HTML y CSS  
+Tinder para perros probando funcionalidad de bootstrap  de para CSS y HTML  
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻 
 
-La utilizacion de Frameworks como bootstrap y mjeorar habilidades de FrontEnd
+La utilización de Frameworks como bootstrap y mjeorar habilidades de FrontEnd
 
 ## Tecnologías 🛠
 <!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
