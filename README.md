@@ -1,7 +1,7 @@
 # TinDogs
 
 ## Ejemplo en vivo
-- [¡Pruebalo!](https://mloaiza98.github.io/Drums/)
+- [¡Pruebalo!](https://mloaiza98.github.io/TinDog/)
 
 ## Descripción 📑
 
